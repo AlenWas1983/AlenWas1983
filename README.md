@@ -1,5 +1,11 @@
-### Hi there 👋
+### Bem-vindos 👋
 
+Este é o meu portfólio online, neste perfil disponibilizo meus artigos, projetos e estudos nas áreas de Data Science, Machine Learning e Data Analytics.
+
+##
+<div>
+  <a href= "https://www.linkedin.com/in/alencleitonwashington" target= "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 <!--
 **AlenWas1983/AlenWas1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
