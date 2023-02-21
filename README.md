@@ -5,7 +5,7 @@ Este é o meu portfólio online, neste perfil disponibilizo meus artigos, projet
 ##
 <div>
   <a href= "https://www.linkedin.com/in/alencleitonwashington" target= "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank"></a>
-  <a href= "https://medium.com/@alencleitonwas" target= "_blank"><img src= "https://img.shields.io/badge/Portfólio-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target= "_blank"></a>
+  <a href= "https://medium.com/@alencleitonwas" target= "_blank"><img src= "https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" target= "_blank"></a>
 </div>
 <!--
 **AlenWas1983/AlenWas1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
